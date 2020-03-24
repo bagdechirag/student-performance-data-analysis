@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Sen&display=swap');
+
+/* 
+    Font Usage
+    font-family: 'Sen', sans-serif;
+*/
+
+* {
+    font-family: 'Sen', sans-serif;
+}
+
+#welcome-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
