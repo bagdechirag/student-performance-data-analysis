@@ -9,6 +9,10 @@
     font-family: 'Sen', sans-serif;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 #head-container {
     text-align: center;
     display: flex;
